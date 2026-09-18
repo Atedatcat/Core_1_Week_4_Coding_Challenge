@@ -2,3 +2,6 @@ body {
   background-color: rgb(227, 202, 172);
   min-height: 100vh;
 }
+.Mini {
+  color: purple;
+}
